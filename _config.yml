@@ -1,0 +1,14 @@
+layout_spectrum: 0.953405
+typography_spectrum: 0.4014337
+color:
+  saturation: 0.7513126
+  lightness: 0.4679245
+  brandStrength: 0.4426523
+  brandColors:
+    - '#380D20'
+    - '#776E5D'
+    - '#FFFFFF'
+    - '#BDBCA4'
+    - '#C6654B'
+  rhythmicContrast: 0.8026373
+name: Manono
